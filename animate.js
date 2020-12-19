@@ -44,6 +44,6 @@ function consoleText(words, id, colors) {
   }, 400)
 }
 window.onload = function () {
-    consoleText(['Hello World.', 'The future is closer than you think.', 'heukno.com' ], 'text',['tomato','rebeccapurple','lightblue']);
+    consoleText(['Hello World.', 'The future is closer than you think.', 'We are there to welcome you.', 'heukno.com' ], 'text',['tomato','rebeccapurple','darkolivegreen','lightblue']);
 
 }
