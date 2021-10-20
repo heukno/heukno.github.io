@@ -129,9 +129,9 @@ section.module.parallax h1 {
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
-section.module.parallax-1 { background-image: url("./img/sander-weeteling-KABfjuSOx74-unsplash.jpg"); }
-section.module.parallax-2 { background-image: url("./img/jan-huber-3Btf2cTAGKs-unsplash.jpg"); }
-section.module.parallax-3 { background-image: url("./img/hreavv-bJlcz7DONyk-unsplash.jpg"); }
+section.module.parallax-1 { background-image: url("./img/sander_2000.jpg"); }
+section.module.parallax-2 { background-image: url("./img/jan_2000.jpg"); }
+section.module.parallax-3 { background-image: url("./img/hreavv_2000.jpg"); }
 
 @media all and (min-width: 600px) {
 section.module h2 { font-size: 42px; }
